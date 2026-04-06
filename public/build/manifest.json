@@ -1,0 +1,22 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Bc0zIhpJ.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BZefPx2I.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/quill-init.js": {
+    "file": "assets/quill-init-Bk-iDycL.js",
+    "name": "quill-init",
+    "src": "resources/js/quill-init.js",
+    "isEntry": true,
+    "css": [
+      "assets/quill-init-CTpA5PSA.css"
+    ]
+  }
+}
